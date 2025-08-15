@@ -1,10 +1,10 @@
-Supply Chain Intelligence Engine
+##Supply Chain Intelligence Engine
 
 A machine learning-powered dashboard to predict product inspection outcomes and optimize supply chain decisions in the beauty & cosmetics industry.
 
 Live Demo: https://supply-chain-intelligence-engine-fpxj9wkih75e4nislvnyk7.streamlit.app/
 
-Project Overview
+###Project Overview
 
 This project analyzes supply chain data from a Beauty & Cosmetics startup to:
 - Predict whether a product batch will Pass or Fail quality inspection
@@ -13,7 +13,7 @@ This project analyzes supply chain data from a Beauty & Cosmetics startup to:
 
 Built using Python, XGBoost, and Streamlit, this end-to-end solution turns raw data into actionable business insights.
 
-Key Features
+###Key Features
 
 - Real-time ML Prediction (XGBoost Classifier, 75% accuracy)
 - Interactive Dashboard with Streamlit
@@ -22,7 +22,7 @@ Key Features
 - Defect Rate & Transportation Impact Analysis
 - Business Recommendations based on data
 
-Tech Stack
+###Tech Stack
 
 - Data Processing: Pandas, NumPy
 - Machine Learning: Scikit-learn, XGBoost
